@@ -1,0 +1,15 @@
+.fontText {
+  font-weight: 500;
+  font-size: 32px;
+}
+
+.imgSize {
+  width: 5%;
+  margin: 0 4px;
+}
+
+.btnSize {
+  padding: 50px;
+  font-size: 32px;
+  font-weight: 600;
+}
